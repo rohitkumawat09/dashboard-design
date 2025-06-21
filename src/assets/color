@@ -1,0 +1,20 @@
+headerbg=#272d34;
+headerinput colorbg=#2a3f50
+dashboard=#f0fbff;
+dashboard bg=#ffffff;
+opne Tickets=#272d34;
+support tickets = #B7EBFF
+support ticket circle, blue button = #00AEEF
+orange button = #F07C00
+yellow button = #FFCC18
+
+
+open ticket progress = -webkit-linear-gradient(0.5turn, #425156 50%, transparent 50%), -webkit-linear-gradient(left, #00AEEF 50%, #425156 50%)
+
+working ticket progress = -webkit-linear-gradient(0.1turn, #E9E9E9 50%, transparent 50%), -webkit-linear-gradient(left, #f7cd4b 50%, #E9E9E9 50%)
+
+on site technician progress: -webkit-linear-gradient(0.2turn, #EAEAEA 50%, transparent 50%), -webkit-linear-gradient(left, #E18230 50%, #EAEAEA 50%)
+
+resolved ticket progress = -webkit-linear-gradient(0.1turn, #EAEAEA 50%, transparent 50%), -webkit-linear-gradient(left, #82cd66 50%, #EAEAEA 50%)
+
+table header bg = #DFF6FF
