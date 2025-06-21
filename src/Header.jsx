@@ -117,7 +117,7 @@ const Header = () => {
         {/* User info + logout */}
         <div className="hidden md:flex items-center gap-4 text-sm">
           <h3>
-            Welcome back, <strong>{user?.email || "User"}!</strong>
+            Welcome back, <strong  className="text-yellow-400">{user?.email || "User"}!</strong>
           </h3>
           <div
             onClick={handleLogout}

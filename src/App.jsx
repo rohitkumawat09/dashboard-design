@@ -125,7 +125,7 @@ import Google from "./Google"
 import AssetDetails1 from "./AssetDetails1"
 import AssetsCPUComponent from "./AssetsCPUComponent"
 import SupportTicketNext from "./SupportsTicketsnext"
-import Login from "./login"
+import Login from "./Login"
 import  Register from  "./Register"
 import ProtectedRoute from "./ProtectedRoute"
 
@@ -159,99 +159,99 @@ const router = createBrowserRouter([
      element:<Dashboard/>
       },
       {
-     path:"contact",
+     path:"/Dashboard/contact",
      element:<ContactComponent/>
       },
       {
-     path:"assets",
+     path:"/Dashboard/assets",
      element:<AssestComponent/>
       },
       {
-     path:"resoursec",
+     path:"/Dashboard/resoursec",
      element:<Resoursec/>
       },
       {
-     path:"setting",
+     path:"/Dashboard/setting",
      element:<Setting/>
       },
       {
-     path:"support",
+     path:"/Dashboard/support",
      element:<Support/>
       },
       {
-     path:"archive",
+     path:"/Dashboard/archive",
      element:<Archive/>
       },
       {
-     path:"jobcard",
+     path:"/Dashboard/jobcard",
      element:<Jobcard/>
       },
       {
-     path:"Technicians",
+     path:"/Dashboard/Technicians",
      element:<Technicians/>
       },
        {
-     path:"ToInvoice",
+     path:"/Dashboard/ToInvoice",
      element:<ToInvoice/>
       },
       {
-     path:"clients",
+     path:"/Dashboard/clients",
      element:<Clients/>
       },
       {
-     path:"users",
+     path:"/Dashboard/users",
      element:<Users/>
       },
       {
-      path:"supportTicket",
+      path:"/Dashboard/supportTicket",
       element:<SupportTicket/>
       },
       {
-      path:"DashboardWorking",
+      path:"/Dashboard/DashboardWorking",
       element:<DashboardWorking/>
       },
         {
-      path:"DashboardOpen",
+      path:"/Dashboard/DashboardOpen",
       element:<DashboardOpen/>
       },
 
         {
-      path:"DashboardOnsiteTechnincSecond",
+      path:"/Dashboard/DashboardOnsiteTechnincSecond",
       element:<DashboardOnsiteTechnincFirst/>
       },
 
         {
-      path:"DashboardonsitePageFirst",
+      path:"/Dashboard/DashboardonsitePageFirst",
       element:<DashboardonsitePageSecond/>
       },
          {
-      path:"JobCardNext",
+      path:"/Dashboard/JobCardNext",
       element:<JobCardNext/>
       },
       
           {
-      path:"SiteOverview",
+      path:"/Dashboard/SiteOverview",
       element:<SiteOverview/>
       },
 
           {
-      path:"StrelingInfotech",
+      path:"/Dashboard/StrelingInfotech",
       element:<StrelingInfotech/>
       },
           {
-      path:"Clientstest",
+      path:"/Dashboard/Clientstest",
       element:<Clientstest/>
       },
            {
-      path:"JobClientAdd",
+      path:"/Dashboard/JobClientAdd",
       element:<JobClientAdd/>
       },
             {
-      path:"Google",
+      path:"/Dashboard/Google",
       element:<Google/>
       },
              {
-      path:"AssetDetails1",
+      path:"/Dashboard/AssetDetails1",
       element:<AssetDetails1/>
       },
 
@@ -260,7 +260,7 @@ const router = createBrowserRouter([
       element:<AssetsCPUComponent/>
       },
                  {
-      path:"SupportTicketNext",
+      path:"/Dashboard/SupportTicketNext",
       element:<SupportTicketNext/>
       },
       

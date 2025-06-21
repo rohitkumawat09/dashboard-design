@@ -576,7 +576,7 @@ function Support() {
                 )}
 
                 <br />
-                <Link to="/SupportTicket">
+                <Link to="/Dashboard/SupportTicket">
                   <button className="p-[5px] mt-1 border rounded hover:bg-gray-100 cursor-pointer">
                     <FiArrowRight />
                   </button>
@@ -609,7 +609,7 @@ function Support() {
                   <LuPencil />
                 </button>{" "}
                 <br />
-                <Link to="/SupportTicketNext">
+                <Link to="/Dashboard/SupportTicketNext">
                   <button className="p-[5px] mt-1 border rounded hover:bg-gray-100 cursor-pointer">
                     <FiArrowRight />
                   </button>
@@ -642,7 +642,7 @@ function Support() {
                   <LuPencil />
                 </button>{" "}
                 <br />
-                <Link to="/SupportTicket">
+                <Link to="/Dashboard/SupportTicket">
                   <button className="p-[5px] mt-1 border rounded hover:bg-gray-100 cursor-pointer">
                     <FiArrowRight />
                   </button>
@@ -673,7 +673,7 @@ function Support() {
                   <LuPencil />
                 </button>{" "}
                 <br />
-                <Link to="/SupportTicketNext">
+                <Link to="/Dashboard/SupportTicketNext">
                   <button className="p-[5px] mt-1 border rounded hover:bg-gray-100 cursor-pointer">
                     <FiArrowRight />
                   </button>
@@ -718,7 +718,7 @@ function Support() {
                   <LuPencil />
                 </button>
                 <br />
-                <Link to="/SupportTicket">
+                <Link to="/Dashboard/SupportTicket">
                   <button className="p-[5px] mt-1 border rounded hover:bg-gray-100 cursor-pointer">
                     <FiArrowRight />
                   </button>
@@ -753,7 +753,7 @@ function Support() {
                   <LuPencil />
                 </button>
                 <br />
-                <Link to="/SupportTicketNext">
+                <Link to="/Dashboard/SupportTicketNext">
                   <button className="p-[5px] mt-1 border rounded hover:bg-gray-100 cursor-pointer">
                     <FiArrowRight />
                   </button>
