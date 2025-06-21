@@ -4,7 +4,7 @@ import { IoIosSearch } from "react-icons/io";
 import { MdLogout } from "react-icons/md";
 import { useNavigate } from "react-router-dom";
 import { signOut, onAuthStateChanged } from "firebase/auth";
-import { auth } from "./firebase";
+import { auth } from "./Firebase";
 
 const pages = [
   { name: "Dashboard", path: "/Dashboard" },
