@@ -125,7 +125,7 @@ import Google from "./Google"
 import AssetDetails1 from "./AssetDetails1"
 import AssetsCPUComponent from "./AssetsCPUComponent"
 import SupportTicketNext from "./SupportsTicketsnext"
-import Login from "./Login"
+import Login from "./login"
 import  Register from  "./Register"
 import ProtectedRoute from "./ProtectedRoute"
 
